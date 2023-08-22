@@ -308,10 +308,10 @@ b, strong {
 /* Smaller than 1200px */
 @media (max-width: 1199.98px) {
   header[class^=pt-], header[class*=" pt-"], section[class^=pt-], section[class*=" pt-"] {
-    padding-top: 80px;
+    padding-top: 3rem;
   }
   header[class^=pb-], header[class*=" pb-"], section[class^=pb-], section[class*=" pb-"] {
-    padding-bottom: 80px;
+    padding-bottom: 3rem;
   }
 
   h1 br, h2 br, h3 br, .text-adaptive br {
